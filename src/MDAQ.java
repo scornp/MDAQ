@@ -1,10 +1,4 @@
-/**
- * Created by IntelliJ IDEA.
- * User: Admin
- * Date: 26-Dec-2005
- * Time: 23:20:12
- * To change this template use File | Settings | File Templates.
- */
+
 
 import org.jfree.ui.RefineryUtilities;
 
@@ -104,6 +98,7 @@ public class MDAQ {
        }
         }*/
 
+        System.out.println("hello world");
 
         String version = new String("Version 3.2");
             SplashWindowFrame splashFrame;
