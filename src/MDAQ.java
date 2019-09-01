@@ -98,7 +98,7 @@ public class MDAQ {
        }
         }*/
 
-     //   System.out.println("hello world");
+       System.out.println("hello world");
 
         String version = new String("Version 3.2");
             SplashWindowFrame splashFrame;
